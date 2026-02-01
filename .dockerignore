@@ -1,0 +1,13 @@
+.git
+.gitignore
+node_modules
+*.log
+README.md
+outfit-*.html
+outfit-*.css
+outfit-*.js
+wardrobe.html
+wardrobe-style.css
+wardrobe-script.js
+nginx.conf
+.dockerignore
